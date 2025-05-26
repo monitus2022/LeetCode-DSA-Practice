@@ -1,0 +1,1 @@
+List of problems: https://algomaster.io/practice/dsa-patterns
